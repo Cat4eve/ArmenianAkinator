@@ -1,0 +1,211 @@
+{
+    "torik": {
+        "male": true,
+        "rich": false,
+        "villager": false,
+        "main": true,
+        "marry": true,
+        "dead": false,
+        "kid": false,
+        "friend": true,
+        "love": true
+    },
+    "angel": {
+            "male": false,
+            "rich": false,
+            "villager": false,
+            "main": false,
+            "marry": true,
+            "dead": false,
+            "kid": false,
+            "friend": false,
+            "love": true
+    },
+    "panos": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": true,
+            "marry": true,
+            "dead": false,
+            "kid": true,
+            "friend": false,
+            "love": false
+    },
+    "leutenant": {
+            "male": true,
+            "rich": false,
+            "villager": false,
+            "main": false,
+            "marry": false,
+            "dead": false,
+            "kid": false,
+            "friend": false,
+            "love": false
+    },
+    "revaz": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": false,
+            "marry": false,
+            "dead": false,
+            "kid": false,
+            "friend": true,
+            "love": false
+    },
+    "ishxan": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": false,
+            "marry": false,
+            "dead": true,
+            "kid": false,
+            "friend": true,
+            "love": false
+    },
+    "nazar": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": true,
+            "marry": true,
+            "dead": false,
+            "kid": false,
+            "friend": false,
+            "love": false
+    },
+    "nikoghos": {
+            "male": true,
+            "rich": true,
+            "villager": false,
+            "main": false,
+            "marry": true,
+            "dead": false,
+            "kid": false,
+            "friend": true,
+            "love": false
+    },
+    "nerses": {
+            "male": true,
+            "rich": true,
+            "villager": false,
+            "main": true,
+            "marry": true,
+            "dead": false,
+            "kid": false,
+            "friend": false,
+            "love": false
+    },
+    "hexnar": {
+            "male": false,
+            "rich": false,
+            "villager": true,
+            "main": false,
+            "marry": true,
+            "dead": true,
+            "kid": false,
+            "friend": false,
+            "love": true
+    },
+    "mkrtich": {
+            "male": true,
+            "rich": true,
+            "villager": true,
+            "main": true,
+            "marry": true,
+            "dead": true,
+            "kid": false,
+            "friend": true,
+            "love": true
+    },
+    "galust": {
+            "male": true,
+            "rich": true,
+            "villager": true,
+            "main": false,
+            "marry": false,
+            "dead": false,
+            "kid": true,
+            "friend": false,
+            "love": false
+    },
+    "varos": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": false,
+            "marry": false,
+            "dead": false,
+            "kid": false,
+            "friend": false,
+            "love": true
+    },
+    "eranos": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": false,
+            "marry": true,
+            "dead": true,
+            "kid": false,
+            "friend": false,
+            "love": true
+    },
+    "hovhannes": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": true,
+            "marry": false,
+            "dead": false,
+            "kid": true,
+            "friend": true,
+            "love": false
+    },
+    "usta": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": false,
+            "marry": true,
+            "dead": true,
+            "kid": false,
+            "friend": true,
+            "love": false
+    },
+    "mk0": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": false,
+            "marry": true,
+            "dead": true,
+            "kid": false,
+            "friend": true,
+            "love": true
+    },
+    "ter": {
+            "male": true,
+            "rich": true,
+            "villager": true,
+            "main": false,
+            "marry": true,
+            "dead": false,
+            "kid": false,
+            "friend": false,
+            "love": false
+    },
+    "exbayr": {
+            "male": true,
+            "rich": false,
+            "villager": true,
+            "main": true,
+            "marry": false,
+            "dead": false,
+            "kid": false,
+            "friend": false,
+            "love": true
+    }
+}
